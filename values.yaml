@@ -658,7 +658,7 @@ images:
     digest: sha256:b69591830856ca592bb2e32fd639f14e691b4ab28ce562c592930c96331ad20b
 
   workloadOperator:
-    repository: workload-operator
+    repository: yuanchris/workload-operator
     digest: sha256:db36ede34e41fb1f8f75e70fced38787d966b32c0dcbfbc5ff8ec551e0609256
 
   fargateInjector:
