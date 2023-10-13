@@ -659,7 +659,7 @@ images:
 
   workloadOperator:
     repository: workload-operator
-    digest: sha256:54b3e0de15f3d4110a4bb133ab1edbc40442376690d1e4c7a5cad69c2f4f4d1d
+    digest: sha256:db36ede34e41fb1f8f75e70fced38787d966b32c0dcbfbc5ff8ec551e0609256
 
   fargateInjector:
     repository: fargate-tool
